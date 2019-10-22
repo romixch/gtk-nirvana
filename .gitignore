@@ -37,9 +37,7 @@ autom4te\.cache/
 
 Debug/
 
-po/Makefile\.in\.in
-
-src/Makefile\.in
+*.in
 
 \.anjuta/
 
@@ -51,8 +49,6 @@ compile
 
 config\.guess
 
-config\.h\.in
-
 config\.sub
 
 configure
@@ -63,16 +59,6 @@ INSTALL
 
 install-sh
 
-intltool-extract\.in
-
-intltool-merge\.in
-
-intltool-update\.in
-
 ltmain\.sh
-
-Makefile\.am
-
-Makefile\.in
 
 missing
