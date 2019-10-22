@@ -11,6 +11,7 @@ dist_doc_DATA = \
 	INSTALL \
 	NEWS
 
+AUTOMAKE_OPTIONS = foreign
 
 INTLTOOL_FILES = intltool-extract.in \
 	intltool-merge.in \
