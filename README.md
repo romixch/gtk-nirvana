@@ -6,4 +6,6 @@ Note I have no affiliation with [People Like Us](http://peoplelikeus.ca/), the m
 
 ## How to install
 
-Currently ou have to checkout the project and build it on your own.
+Currently ou have to checkout the project and build it on your own. Execute `./configure && make && make install`
+
+See more instructions in file INSTALL. 
