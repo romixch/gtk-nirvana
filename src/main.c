@@ -32,6 +32,7 @@ create_window (void)
 	GtkWidget *window, *box, *scroll, *view;
 
     window = gtk_window_new (GTK_WINDOW_TOPLEVEL);
+    gtk_window_set_icon_name (GTK_WINDOW (window), "nirvanahq");
     gtk_window_set_default_size (GTK_WINDOW (window), 400, 400);
     gtk_window_set_title (GTK_WINDOW (window), "Nirvana GTD");
     g_signal_connect (window, "delete-event", G_CALLBACK (gtk_main_quit), NULL);

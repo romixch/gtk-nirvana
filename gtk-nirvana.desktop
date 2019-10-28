@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Nirvana HQ
+Exec=gtk_nirvana
+Comment=Desktop Application for Nirvana HQ
+Icon=nirvanahq
+Terminal=false
+Categories=Utility;GTK;
