@@ -35,30 +35,8 @@
 
 autom4te\.cache/
 
-Debug/
+config\.log
 
-*.in
+src/gtk_nirvana
 
-\.anjuta/
-
-\.anjuta_sym_db\.db
-
-aclocal\.m4
-
-compile
-
-config\.guess
-
-config\.sub
-
-configure
-
-depcomp
-
-INSTALL
-
-install-sh
-
-ltmain\.sh
-
-missing
+Makefile
